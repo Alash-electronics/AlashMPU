@@ -1,4 +1,6 @@
-// AlashMPU на ESP32 со своими пинами I2C: begin(SDA, SCL).
+// [ru] AlashMPU на ESP32 со своими пинами I2C: begin(SDA, SCL).
+// [kk] AlashMPU ESP32-де өз I2C пиндерімен: begin(SDA, SCL).
+// [en] AlashMPU on ESP32 with its own I2C pins: begin(SDA, SCL).
 #include <AlashMPU.h>
 
 AlashMPU mpu;

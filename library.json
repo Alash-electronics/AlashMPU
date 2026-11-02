@@ -1,6 +1,6 @@
 {
   "name": "AlashMPU",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy MPU6050 / MPU9250 (GY-521) library: tilt angles with a filter, calibration, auto address, clear tips (ru/kk/en), no dependencies",
   "keywords": "MPU6050, MPU9250, MPU6500, GY-521, gyroscope, accelerometer, IMU, tilt, I2C",
   "repository": { "type": "git", "url": "https://github.com/Alash-electronics/AlashMPU" },

@@ -1,6 +1,12 @@
-// AlashMPU: углы наклона. Крен (roll) и тангаж (pitch) в градусах, как в "электронном уровне".
-// Фильтр сам объединяет гироскоп (быстрый, но уплывает) и акселерометр (медленный, но точный).
-// Вызывать update() не нужно.
+// [ru] AlashMPU: углы наклона. Крен (roll) и тангаж (pitch) в градусах, как в "электронном уровне".
+//      Фильтр сам объединяет гироскоп (быстрый, но уплывает) и акселерометр (медленный, но точный).
+//      Вызывать update() не нужно.
+// [kk] AlashMPU: еңкею бұрыштары. Крен (roll) және тангаж (pitch) градуспен, «электрондық деңгей» сияқты.
+//      Сүзгі гироскопты (жылдам, бірақ ығысады) және акселерометрді (баяу, бірақ дәл) өзі біріктіреді.
+//      update() шақырудың қажеті жоқ.
+// [en] AlashMPU: tilt angles. Roll and pitch in degrees, like an "electronic level".
+//      The filter combines the gyroscope (fast but drifts) and the accelerometer (slow but accurate) itself.
+//      There is no need to call update().
 #include <AlashMPU.h>
 
 AlashMPU mpu;
