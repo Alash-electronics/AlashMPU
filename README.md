@@ -57,6 +57,8 @@ void loop() {
 ### Тесты
 Единицы, диапазоны, формулы углов, фильтр, интегрирование, калибровка и отклонение при движении, определение чипа проверены без железа на имитации регистров: `extras/test`.
 
+Подробное руководство: [docs/WIKI.md](docs/WIKI.md).
+
 ---
 
 ## Қазақша
@@ -98,6 +100,8 @@ void loop() {
 
 ### Мысалдар
 `Basic`, `Tilt`, `Calibrate`, `Diagnose`, `ESP32_CustomPins`.
+
+Толық нұсқаулық: [docs/WIKI.md](docs/WIKI.md).
 
 ---
 
@@ -143,6 +147,8 @@ Not supported: the MPU9250 magnetometer (compass), interrupts, DMP. `yaw()` is i
 
 ### Examples
 `Basic`, `Tilt`, `Calibrate`, `Diagnose`, `ESP32_CustomPins`.
+
+Full guide: [docs/WIKI.md](docs/WIKI.md).
 
 ### License
 MIT, Alash Electronics.
